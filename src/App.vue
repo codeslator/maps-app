@@ -1,6 +1,6 @@
 <template>
   <router-view/>
-  <img src="@/assets/logo.png" alt="Vue Logo" class="logo">
+  <!-- <img src="@/assets/logo.png" alt="Vue Logo" class="logo"> -->
 </template>
 
 <style>

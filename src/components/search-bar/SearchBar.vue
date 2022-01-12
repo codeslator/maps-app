@@ -12,12 +12,12 @@
 <style scoped>
   .search-bar-container {
     background-color: #fff;
-    position: fixed;
+    /* position: fixed;
     top: 20px;
-    left: 20px;
+    left: 20px; */
     z-index: 9999;
     /* box-shadow: 0px 5px 10px rgba(0, 0, 0, .8); */
-    width: 300px;
+    width: 100%;
     /* overflow: hidden; */
     /* padding: 5px;
     border-radius: 10px; */

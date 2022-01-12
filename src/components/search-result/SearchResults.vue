@@ -21,7 +21,7 @@
         <button class="btn btn-sm"
           :class="(place.id === activePlace) ? 'btn-outline-light' : 'btn-outline-primary'"
           @click.self="getRouteDirections(place)"
-        >Addesses</button>
+        >Address</button>
       </div>
     </li>
   </ul>

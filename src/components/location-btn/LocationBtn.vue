@@ -1,6 +1,6 @@
 <template>
   <button class="btn btn-primary" @click="onMyLocationClick" v-if="isReadyBtn">
-    Go to my Location
+    My Location
   </button>
 </template>
 
@@ -31,8 +31,9 @@ export default defineComponent({
 
 <style scoped>
 button {
-  position: fixed;
+  /* position: fixed;
   top: 20px;
-  right: 20px;
+  right: 20px; */
+  width: 100%;
 }
 </style>
